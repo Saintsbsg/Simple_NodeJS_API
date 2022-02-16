@@ -55,7 +55,7 @@ Exemplo de requisição:
     "price": 60,
     "year": 2014
 }
-´´´
+```
 ### Respostas
 ### OK! 200
 
